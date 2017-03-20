@@ -1,6 +1,5 @@
 # what-to-eat
-<!DOCTYPE HTML>
-<html xmlns:wb="http://open.weibo.com/wb">
+
 <head>
     <meta charset="UTF-8">
     <title>中午吃什么</title>
@@ -63,4 +62,4 @@
     <!-- google-analytics code end -->
 
 </body>
-</html>
+
